@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/version-0.1-green)
 ![Static Badge](https://img.shields.io/badge/lincense-MIT-orange)
 
-> A project to build your own Lisp [cipher] — simple and full of possibilities
+> A project to build my own Lisp [cipher] — simple and full of possibilities
 
 *[Demo GIF or screenshot soon]*
 
